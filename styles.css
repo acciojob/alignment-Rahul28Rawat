@@ -1,1 +1,41 @@
-/*  your css code here. If applicable */
+*{
+	line-height:10px;
+}
+td{
+	min-height:10px;
+	
+}
+table.middle {
+      border: 2px solid black;
+    }
+
+    table.middle td, table.middle th {
+      border: 1px solid black;
+      padding: 1px;
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    .right {
+      text-align: right;
+    }
+
+    .green {
+      background-color: green;
+    }
+
+    .blue {
+      background-color: blue;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    img {
+      width: 200px;
+      height: auto;
+      margin: auto;
+    }
